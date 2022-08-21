@@ -1,5 +1,5 @@
 //Day 1 
-//I started learning and implementing Non-Linear Data Structures
+//Started learning and implementing Non-Linear Data Structures
 //Binary Tree - Height, Diameter, Depth First Traversal - Inorder, Preorder, Postorder, Breadth First Search - Level Order Traversal
 
 #include <iostream>
